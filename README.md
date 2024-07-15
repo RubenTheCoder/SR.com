@@ -17,6 +17,8 @@ Here we build a website were travellers can find information for their next trip
 
 ### What this portfolio project uses
 - HTML, CSS and JavaScript
+- Tailwind.css
+- React.js
 - PHP Framework (Laravel)
 - ContentFul API to store our data
 - Error logging to log files
